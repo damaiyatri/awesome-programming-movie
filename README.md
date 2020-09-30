@@ -6,6 +6,7 @@ A collection of incredible programming movies that can inspire you,
 - [Sneakers (1992)](https://www.imdb.com/title/tt0105435/)
 - [Blackhat (2015)](https://www.imdb.com/title/tt2717822/)
 - [WarGames (1983)](https://www.imdb.com/title/tt0086567/)
+- [Antitrust (2001)](https://www.imdb.com/title/tt0218817/)
 - [Who Am I (2014)](https://www.imdb.com/title/tt3042408/)
 - [Snowden (2016)](https://www.imdb.com/title/tt3774114/)
 - [Open Windows (2014)](https://www.imdb.com/title/tt2409818/)
