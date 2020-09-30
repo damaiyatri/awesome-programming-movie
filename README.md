@@ -4,3 +4,4 @@ A collection of incredible programming films that can inspire you
 - [The Social Network (2010)](https://www.imdb.com/title/tt1285016/)
 - [Sneakers (1992)](https://www.imdb.com/title/tt0105435/)
 - [Blackhat (2015)](https://www.imdb.com/title/tt2717822/)
+- [WarGames (1983)](https://www.imdb.com/title/tt0086567/)
