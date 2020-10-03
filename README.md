@@ -11,3 +11,5 @@ A collection of incredible programming movies that can inspire you,
 - [Snowden (2016)](https://www.imdb.com/title/tt3774114/)
 - [Open Windows (2014)](https://www.imdb.com/title/tt2409818/)
 - [Takedown (2000)](https://www.imdb.com/title/tt0159784/)
+- [Silicon Valley (2014-2019)](https://www.imdb.com/title/tt2575988/)
+- [Jobs (2013)](https://www.imdb.com/title/tt2357129/)
