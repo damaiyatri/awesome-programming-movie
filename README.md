@@ -13,3 +13,6 @@ A collection of incredible programming movies that can inspire you,
 - [Takedown (2000)](https://www.imdb.com/title/tt0159784/)
 - [Silicon Valley (2014-2019)](https://www.imdb.com/title/tt2575988/)
 - [Jobs (2013)](https://www.imdb.com/title/tt2357129/)
+- [Revolution OS (2001)](https://www.imdb.com/title/tt0308808/?ref_=tt_sims_tt)
+- [The Internet's Own Boy: The Story of Aaron Swartz (2014)](https://www.imdb.com/title/tt3268458/)   
+- [Tron (1982)](https://www.imdb.com/title/tt0084827/)
