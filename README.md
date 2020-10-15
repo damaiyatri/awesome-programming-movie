@@ -11,4 +11,6 @@ A collection of incredible programming movies that can inspire you,
 - [Snowden (2016)](https://www.imdb.com/title/tt3774114/)
 - [Open Windows (2014)](https://www.imdb.com/title/tt2409818/)
 - [Takedown (2000)](https://www.imdb.com/title/tt0159784/)
+- [Revolution OS (2001)](https://www.imdb.com/title/tt0308808/?ref_=tt_sims_tt)
+- [The Internet's Own Boy: The Story of Aaron Swartz (2014)](https://www.imdb.com/title/tt3268458/)   
 - [Tron (1982)](https://www.imdb.com/title/tt0084827/)
