@@ -25,3 +25,4 @@ A collection of incredible programming movies that can inspire you,
 - [Pirates of Silicon Valley (1999)](https://www.imdb.com/title/tt0168122/)
 - [Primer (2004)](https://www.imdb.com/title/tt0390384/)
 - [Office Space (1999)](https://www.imdb.com/title/tt0151804/)
+- [Ex Machina (2014)](https://www.imdb.com/title/tt0470752/)
