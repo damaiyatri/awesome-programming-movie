@@ -26,3 +26,4 @@ A collection of incredible programming movies that can inspire you,
 - [Primer (2004)](https://www.imdb.com/title/tt0390384/)
 - [Office Space (1999)](https://www.imdb.com/title/tt0151804/)
 - [Ex Machina (2014)](https://www.imdb.com/title/tt0470752/)
+- [Disclosure (1994)](https://www.imdb.com/title/tt0109635/)
