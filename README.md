@@ -30,3 +30,4 @@ A collection of incredible programming movies that can inspire you,
 - [Untraceable (2008)](https://www.imdb.com/title/tt0880578/)
 - [Paycheck (2003)](https://www.imdb.com/title/tt0338337/)
 - [We Are Legion: The Story of the Hacktivists (2012)](https://www.imdb.com/title/tt2177843/)
+- [TPB AFK: The Pirate Bay Away from Keyboard (2013)](https://www.imdb.com/title/tt2608732/)
