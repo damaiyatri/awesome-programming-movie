@@ -31,3 +31,4 @@ A collection of incredible programming movies that can inspire you,
 - [Paycheck (2003)](https://www.imdb.com/title/tt0338337/)
 - [We Are Legion: The Story of the Hacktivists (2012)](https://www.imdb.com/title/tt2177843/)
 - [TPB AFK: The Pirate Bay Away from Keyboard (2013)](https://www.imdb.com/title/tt2608732/)
+- [The Net (1995)](https://www.imdb.com/title/tt0113957/)
